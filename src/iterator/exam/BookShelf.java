@@ -8,8 +8,8 @@ public class BookShelf implements Iterable<Book> {
 	// 배열이 아닌 ArrayList 사용하기
 	private List<Book> books;
 	
-	public BookShelf() {
-		this.books = new ArrayList<>();
+	public BookShelf(int initialsize) {
+		this.books = new ArrayList<>(initialsize);
 	}
 	
 	public Book getBookAt(int index) {
