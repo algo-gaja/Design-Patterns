@@ -1,0 +1,5 @@
+#written by FileProperties
+#Tue Aug 22 20:39:36 GMT+09:00 2023
+height=512
+width=1024
+depth=32
