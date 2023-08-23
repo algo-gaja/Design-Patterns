@@ -1,4 +1,4 @@
-package adapter.delegation;
+package adapter;
 
 public class Banner {
 	private String string;

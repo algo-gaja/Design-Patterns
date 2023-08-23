@@ -1,5 +1,7 @@
 package adapter.delegation;
 
+import adapter.Banner;
+
 public class PrintBanner extends Print {
 	private Banner banner;
 	

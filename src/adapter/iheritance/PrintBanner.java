@@ -1,5 +1,7 @@
 package adapter.iheritance;
 
+import adapter.Banner;
+
 public class PrintBanner extends Banner implements Print {
 	public PrintBanner(String string) {
 		super(string);
