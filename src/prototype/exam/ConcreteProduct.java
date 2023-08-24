@@ -8,7 +8,7 @@ public abstract class ConcreteProduct implements Product {
 	public abstract void use(String s);
 
 	@Override
-	public Product createCopy() {
+	public final Product createCopy() {
 		Product p = null;
 		try {
 			p = (Product) clone();
