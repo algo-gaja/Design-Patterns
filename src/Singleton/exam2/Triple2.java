@@ -1,4 +1,4 @@
-package Singleton.exam2;
+package singleton.exam2;
 
 public enum Triple2 {
 	ALPHA, BETA, GAMMA;

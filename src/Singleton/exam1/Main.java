@@ -1,4 +1,4 @@
-package Singleton.exam1;
+package singleton.exam1;
 
 public class Main {
 	public static void main(String[] args) {

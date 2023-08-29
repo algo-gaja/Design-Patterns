@@ -1,4 +1,4 @@
-package Singleton.exam1;
+package singleton.exam1;
 
 public class TicketMaker {
 	private int ticket = 1000;
